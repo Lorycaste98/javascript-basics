@@ -16,11 +16,9 @@ document.querySelector('.js-reset-button')
     azzeraContatore();
   })
 
-// // condizione per poter utilizzare anche la tastiera
+// condizione per poter utilizzare anche la tastiera
 document.body.addEventListener('keydown', (event) => {
   if (event.key === '+') {
-    aumentaContatore();
-  } else if (event.key === 'Enter') {
     aumentaContatore();
   } else if (event.key === '-') {
     diminuisciContatore();

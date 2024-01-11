@@ -10,8 +10,8 @@ body {
   flex-direction: column;
   align-items: center;
   justify-content: center;
-  margin: 0;
   height: 100vh;
+  margin: 50px;
 }
 
 .counter-container {
@@ -22,29 +22,28 @@ body {
 }
 
 .image {
-  width: 500px;
+  width: 400px;
+  margin: 10px;
 }
 
 #contatore {
   font-family: 'DSDigital';
-  font-size: 5em;
+  font-size: 4em;
   text-align: center;
-  height: 80px;
-  width: 200px;
+  height: 16%;
   position: absolute;
   top: 42%;
   display: flex;
   align-items: center;
   justify-content: center;
-  
 }
 
 .button-container {
   display: flex;
   justify-content: space-between;
-  width: 500px;
+  width: 400px;
   position: absolute;
-  top: 30px;
+  top: 7%;
 }
 
 .plus-button,
@@ -57,23 +56,47 @@ body {
 
 .plus-button,
 .minus-button {
-  width: 100px;
-  padding: 20px 0 15px 0;
-  font-size: 25px;
+  width: 16%;
+  padding: 5% 0 4% 0;
+  font-size: 20px;
 }
 
 .plus-button {
-  margin-left: 45px;
+  margin-left: 12%;
 }
 
 .minus-button {
-  margin-right: 45px;
+  margin-right: 12%;
 }
 
 .reset-button {
-  font-size: 12px;
-  padding-bottom: 15px;
+  font-size: 9px;
+  padding-bottom: 4%;
   color: white;
+}
+
+@media only screen and (min-width:501px) {  
+  .image {
+    width: 500px;
+    margin: 10px;
+  }
+  
+  #contatore {
+    font-size: 5em;
+  }
+  
+  .button-container {
+    width: 500px;  
+  }
+  
+  .plus-button,
+  .minus-button {
+    font-size: 25px;
+  }
+  
+  .reset-button {
+    font-size: 12px;
+  }
 }
 
 
