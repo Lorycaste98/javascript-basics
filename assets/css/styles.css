@@ -22,13 +22,13 @@ body {
 }
 
 .image {
-  width: 400px;
+  width: 100%;
   margin: 10px;
 }
 
 #contatore {
   font-family: 'DSDigital';
-  font-size: 4em;
+  font-size: 14vw;
   text-align: center;
   height: 16%;
   position: absolute;
@@ -41,7 +41,7 @@ body {
 .button-container {
   display: flex;
   justify-content: space-between;
-  width: 400px;
+  width: 100%;
   position: absolute;
   top: 7%;
 }
@@ -58,7 +58,7 @@ body {
 .minus-button {
   width: 16%;
   padding: 5% 0 4% 0;
-  font-size: 20px;
+  font-size: 4vw;
 }
 
 .plus-button {
@@ -70,12 +70,12 @@ body {
 }
 
 .reset-button {
-  font-size: 9px;
+  font-size: 1.8vw;
   padding-bottom: 4%;
   color: white;
 }
 
-@media only screen and (min-width:501px) {  
+/* @media only screen and (min-width:501px) {  
   .image {
     width: 500px;
     margin: 10px;
@@ -97,7 +97,7 @@ body {
   .reset-button {
     font-size: 12px;
   }
-}
+} */
 
 
 
