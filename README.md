@@ -22,7 +22,8 @@ The idea I started with was to recreate the counter with a design resembling tha
 
 In the script.js file, there are a few simple functions that enable the functionality of the application. Additionally, I have included a condition that allows the use of keyboard buttons to perform certain actions.
 
-### Built With
+
+### My skills for this project
 
 - ![My Skill](https://skillicons.dev/icons?i=html) 
 - ![My Skill](https://skillicons.dev/icons?i=css)
