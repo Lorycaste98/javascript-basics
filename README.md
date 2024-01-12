@@ -1,16 +1,10 @@
-<!-- Improved compatibility of back to top link: See: https://github.com/othneildrew/Best-README-Template/pull/73 -->
-# JAVASCRIPT COUNTER 
-<a href="https://github.com/Lorycaste98/javascript-basics">
-  <img src="assets/img/cronometro1.svg" alt="Logo" width="120" height="120" text-align="center">
+# JAVASCRIPT COUNTER <a href="https://github.com/Lorycaste98/javascript-basics">
+  <img src="assets/img/cronometro1.svg" alt="Logo" width="120" height="120">
 </a>
-
-<!-- PROJECT LOGO -->
-<br/>
-
 
 ## The Project
   <a href="https://lorycaste98.github.io/javascript-basics/" target="_blank">
-    <img src="assets/img/screenshot.png" alt="Screenshot" width="300" height="400" border-radius="5">
+    <img src="https://github.com/Lorycaste98/javascript-basics/blob/main/assets/img/screenshot.PNG" alt="App screenshot" width="300" height="400" border-radius="5">
   </a>
 
 This simple JavaScript counter is one of the projects for the Master in Full Stack Development for [start2impact](https://www.start2impact.it/) UNIVERSITY.
@@ -31,9 +25,9 @@ In the script.js file, there are a few simple functions that enable the function
 
 ### Built With
 
-![My Skill](https://skillicons.dev/icons?i=html)
-![My Skill](https://skillicons.dev/icons?i=css)
-![My Skill](https://skillicons.dev/icons?i=js)
+- ![My Skill](https://skillicons.dev/icons?i=html) 
+- ![My Skill](https://skillicons.dev/icons?i=css)
+- ![My Skill](https://skillicons.dev/icons?i=js)
 
 ## License
 
