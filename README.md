@@ -1,5 +1,5 @@
 # JAVASCRIPT COUNTER 
-<a href="https://lorycaste98.github.io/javascript-basics/">
+<a href="https://lorycaste98.github.io/javascript-basics/" target="_blank">
   <img src="assets/img/cronometro1.svg" alt="Logo" width="120" height="120">
 </a>
 
